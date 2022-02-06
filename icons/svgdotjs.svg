@@ -1,0 +1,11 @@
+<svg viewBox="0 0 326 326" fill="#ff0066" xmlns="http://www.w3.org/2000/svg">
+  <title>SVG.js</title>
+  <rect width="230" height="230" x="48" y="48" transform="rotate(45 163 163)"></rect>
+  <g stroke="#fff" stroke-width="5">
+    <path d="M163 70 C 70 163 256 163 163 256" stroke-width="13" fill="none" stroke-linecap="round"></path>
+    <line x1="163" y1="70" x2="70" y2="163"></line>
+    <line x1="256" y1="163" x2="163" y2="256"></line>
+    <circle r="6" cx="70" cy="163"></circle>
+    <circle r="6" cx="256" cy="163"></circle>
+  </g>
+</svg>
